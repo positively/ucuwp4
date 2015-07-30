@@ -72,7 +72,7 @@
 	<header id="branding" role="banner">
 			<hgroup>
 				<h1 id="site-title"><span><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></span></h1>
-				<h2 id="site-description"><?php bloginfo( 'description' ); ?> / pure Ubuntu</h2>
+				<h2 id="site-description"><?php bloginfo( 'description' ); ?></h2>
 			</hgroup>
 
 			<?php
